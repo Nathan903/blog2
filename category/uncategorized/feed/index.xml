@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Pillbox 药合</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Better drug and medicine disposal</description>
+	<lastBuildDate>Tue, 26 Feb 2019 12:32:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.13</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/01/cropped-CTB-Logo-Designs-21-32x32.jpg</url>
+	<title>Uncategorized &#8211; Pillbox 药合</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blog</title>
+		<link>/2019/01/22/blog/</link>
+		<comments>/2019/01/22/blog/#respond</comments>
+		<pubDate>Tue, 22 Jan 2019 02:31:52 +0000</pubDate>
+		<dc:creator><![CDATA[user]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=24</guid>
+		<description><![CDATA[Hello world! first blog!]]></description>
+				<content:encoded><![CDATA[
+<p>Hello world! first blog!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2019/01/22/blog/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
