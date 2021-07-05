@@ -7,9 +7,9 @@ def read_text_file(file_path):
         for line in lines:
             if ("""<a href="http:/""") in line:
                 print(line)
-            elif ("http://pillboxshsid.com" in line) and not("schema.org" in line):
-                print(line.replace("http://pillboxshsid.com",""))
-                f.write(line.replace("http://pillboxshsid.com",""))
+            elif ("https:\/\/pillboxshsid.com" in line) and not("schema.org" in line):
+                #print(line.replace("https:\/\/pillboxshsid.com",""))
+                f.write(line.replace("https:\/\/pillboxshsid.com",""))
             elif ("http:" in line) and not("schema.org" in line):
                 print(line)
                 f.write(line.replace("http:","https:"))
